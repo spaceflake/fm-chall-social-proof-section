@@ -48,21 +48,7 @@ Users should be able to:
 
 Was great diving deeper of my understanding of Flexbox. Also sorting the css dealing first with styles and then with the layout was something I found usefull for this project.
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ### Continued development
 
