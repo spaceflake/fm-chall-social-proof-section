@@ -25,7 +25,7 @@ body{
   padding: 2em;
   background-image: url(/images/bg-pattern-top-mobile.svg), url(/images/bg-pattern-bottom-mobile.svg);
   background-repeat: no-repeat, no-repeat;
-  background-position: top left, bottom right;
+  background-position: top left, right;
   min-height: 100vh;
 }
 /* styles */
@@ -71,6 +71,9 @@ h1, .starCard p {
 }
 .topContent, .quotesCards {max-width:85em;}
 
+.quotesCards {
+  margin-top: 2em;
+}
 
 .ratings { 
   display: flex;
